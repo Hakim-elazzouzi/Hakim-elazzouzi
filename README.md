@@ -1,19 +1,21 @@
 # Hi there, I'm Hakim El Azzouzi 👋
 
-> *"From satellite signals to data insights — engineering the world one dataset at a time."* 🛰️📊
+> *"Still learning, always curious, never settling."* 🛰️
 
 ---
 
 ### 🧭 About Me
 
-I'm a **GNSS Engineer** with a strong passion for **Satellite Systems** and **Data Analysis**, based in 🇱🇺 **Luxembourg**. My work sits at the crossroads of space technology and data-driven engineering — from satellite navigation & positioning, signal processing, and orbit determination, to data analysis and building tools that make sense of complex datasets.
+I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, genuinely passionate about **Satellite Systems** and everything that comes with it — navigation, positioning, signal processing, and orbit determination. I'm also on a journey into **Data Analysis**, motivated by the idea that understanding data deeply is what makes any engineer more powerful.
 
-- 🛰️ Specializing in **GNSS / Satellite Navigation Systems**
-- 📡 Working across **navigation, positioning, signal processing & orbit determination**
-- 📊 Experienced in **Data Analysis** & building data-driven tools
+I don't claim to know everything, far from it. But I show up, I dig into problems, and I keep building.
+
+- 🛰️ Background in **GNSS / Satellite Navigation Systems**
+- 📡 Interested in **navigation, positioning, signal processing & orbit determination**
+- 📊 Learning and growing in **Data Analysis** — one project at a time
 - 🎓 Open to **PhD opportunities** in GNSS, Geodesy, or Data Science
-- 🔍 Seeking roles in **Satellite Systems** or **Data Analysis** — Luxembourg & beyond
-- 🌍 Passionate about using data to solve real-world engineering problems
+- 🔍 Looking for opportunities in **Satellite Systems** or **Data Analysis**
+- 🌱 Always eager to learn, collaborate, and take on new challenges
 
 ---
 
@@ -29,7 +31,7 @@ I'm a **GNSS Engineer** with a strong passion for **Satellite Systems** and **Da
 
 ---
 
-### 🚀 What I Do
+### 🚀 What I Work On
 
 | 🛰️ GNSS & Satellite Systems | 📊 Data Analysis |
 |---|---|
@@ -48,7 +50,6 @@ I'm a **GNSS Engineer** with a strong passion for **Satellite Systems** and **Da
 - 🔍 Analyze **satellite visibility** & pseudorange behavior
 - 📶 Inspect **carrier phase measurements**
 - 🌐 Multi-constellation coverage across GPS, GLONASS, Galileo & more
-- 📊 Data-driven insights from raw satellite observations
 
 ---
 
@@ -79,4 +80,4 @@ I'm a **GNSS Engineer** with a strong passion for **Satellite Systems** and **Da
   <img src="https://komarev.com/ghpvc/?username=Hakim-elazzouzi&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
-<p align="center">Thanks for visiting! Always open to exciting opportunities in GNSS, Data Analysis, or Research. 🛰️📊✨</p>
+<p align="center">Thanks for stopping by — feel free to reach out, I'm always open to learning and new opportunities. 🛰️✨</p>

@@ -1,14 +1,12 @@
 # Hi there, I'm Hakim El Azzouzi 👋
 
-> *"Still learning, always curious, never settling."* 🛰️
+> *"I don't claim to know everything — but I know how to find it."* 🛰️
 
 ---
 
 ### 🧭 About Me
 
-I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, holding a Master's degree in Global Navigation Satellite Systems from Mohammed First University. My background is rooted in satellite navigation, signal processing, and positioning systems.
-
-I'm actively targeting opportunities in **Luxembourg's space and satellite sector**, and I'm building my portfolio through hands-on projects to back that up — one commit at a time.
+I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, genuinely passionate about **Satellite Systems** and everything that comes with it — navigation, positioning, signal processing, and orbit determination. I'm also on a journey into **Data Analysis**, motivated by the idea that understanding data deeply is what makes any engineer more powerful.
 
 - 🛰️ Master's in **Global Navigation Satellite Systems (GNSS)**
 - 📡 Background in **satellite navigation, positioning, signal processing & GNSS augmentation systems**

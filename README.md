@@ -6,10 +6,11 @@
 
 ### 🧭 About Me
 
-I'm a **GNSS Engineer** with a strong passion for **Satellite Systems** and **Data Analysis**, based in 🇱🇺 **Luxembourg**. My work sits at the crossroads of space technology and data-driven decision making — whether it's decoding raw satellite observations or uncovering patterns in complex datasets.
+I'm a **GNSS Engineer** with a strong passion for **Satellite Systems** and **Data Analysis**, based in 🇱🇺 **Luxembourg**. My work sits at the crossroads of space technology and data-driven engineering — from satellite navigation & positioning, signal processing, and orbit determination, to data analysis and building tools that make sense of complex datasets.
 
 - 🛰️ Specializing in **GNSS / Satellite Navigation Systems**
-- 📊 Experienced in **Data Analysis**, signal processing & multi-constellation GNSS data
+- 📡 Working across **navigation, positioning, signal processing & orbit determination**
+- 📊 Experienced in **Data Analysis** & building data-driven tools
 - 🎓 Open to **PhD opportunities** in GNSS, Geodesy, or Data Science
 - 🔍 Seeking roles in **Satellite Systems** or **Data Analysis** — Luxembourg & beyond
 - 🌍 Passionate about using data to solve real-world engineering problems
@@ -32,10 +33,10 @@ I'm a **GNSS Engineer** with a strong passion for **Satellite Systems** and **Da
 
 | 🛰️ GNSS & Satellite Systems | 📊 Data Analysis |
 |---|---|
-| RINEX file parsing & processing | Exploratory Data Analysis (EDA) |
-| Multi-constellation coverage (GPS, Galileo, GLONASS) | Data visualization & reporting |
-| Satellite visibility & signal analysis | Statistical analysis & pattern recognition |
-| Pseudorange & carrier phase measurements | Python-based data pipelines |
+| Satellite navigation & positioning | Exploratory Data Analysis (EDA) |
+| Signal processing & orbit determination | Data visualization & reporting |
+| Multi-constellation GNSS (GPS, Galileo, GLONASS) | Statistical analysis & pattern recognition |
+| RINEX data processing & analysis | Python-based data pipelines |
 
 ---
 

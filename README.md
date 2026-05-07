@@ -6,7 +6,7 @@
 
 ### 🧭 About Me
 
-I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, genuinely passionate about **Satellite Systems** and everything that comes with it — navigation, positioning, signal processing, and orbit determination. I'm also on a journey into **Data Analysis**, motivated by the idea that understanding data deeply is what makes any engineer more powerful.
+I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, genuinely passionate about **GNSS**, **Satellite Systems** and everything that comes with it — navigation, positioning, signal processing, and orbit determination. I'm also on a journey into **Data Analysis**, motivated by the idea that understanding data deeply is what makes any engineer more powerful.
 
 - 🛰️ Master's in **Global Navigation Satellite Systems (GNSS)**
 - 📡 Background in **satellite navigation, positioning, signal processing & GNSS augmentation systems**

@@ -6,18 +6,16 @@
 
 ### 🧭 About Me
 
-I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, holding a Master's degree in Global Navigation Satellite Systems from Mohammed First University. My background is rooted in satellite navigation, signal processing, and positioning — and I'm genuinely passionate about going deeper into these fields.
+I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, holding a Master's degree in Global Navigation Satellite Systems from Mohammed First University. My background is rooted in satellite navigation, signal processing, and positioning systems.
 
-I also have a growing interest in **Data Analysis**, motivated by the belief that data skills make any engineer sharper and more versatile. I'm not an expert yet, but I'm putting in the work, one project at a time.
-
-I'm the kind of person who enjoys digging into problems, learning from hands-on experience, and contributing meaningfully to a team. I don't claim to know everything, far from it. But I'm motivated, reliable, and always eager to grow.
+I'm actively targeting opportunities in **Luxembourg's space and satellite sector**, and I'm building my portfolio through hands-on projects to back that up — one commit at a time.
 
 - 🛰️ Master's in **Global Navigation Satellite Systems (GNSS)**
-- 📡 Background in **navigation, positioning, signal processing & GNSS augmentation systems**
-- 📊 Learning and growing in **Data Analysis**
+- 📡 Background in **satellite navigation, positioning, signal processing & GNSS augmentation systems**
+- 🌍 Based in **Luxembourg** — open to opportunities in the space & satellite sector
 - 🎓 Open to **PhD opportunities** in GNSS, Geodesy, or related fields
-- 🔍 Looking for opportunities in **Satellite Systems** or **Data Analysis**
-- 🌱 Motivated, detail-oriented, and always eager to learn
+- 📊 Expanding into **Data Analysis** as a complement to my engineering background
+- 🌱 Motivated, detail-oriented, and always eager to grow
 
 ---
 
@@ -46,55 +44,6 @@ I'm the kind of person who enjoys digging into problems, learning from hands-on 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-### 💼 Experience
-
-**Junior GNSS Engineer Intern** — Moroccan Airports Authority *(Aug 2022 – Jun 2023)*
-> Nador Al Aaroui International Airport, Morocco
-
-- Studied ground-based navigational aids: ILS, VOR, NDB, DME
-- Worked with GNSS constellations (GPS, GLONASS, Galileo, BeiDou) and augmentation systems (SBAS, GBAS, ABAS)
-- Analyzed meteorological data impacting RNAV(GNSS) approach procedures in low visibility
-- Wrote technical documentation and collaborated daily with the engineering team
-
----
-
-### 📌 Projects
-
-#### 🛰️ [Multi-GNSS Satellite Availability](https://github.com/Hakim-elazzouzi/Multi-GNSS-Satellite-Availability)
-Python-based RINEX 3.05 explorer — satellite visibility, pseudorange behavior, carrier phase, multi-constellation coverage.
-
-#### ✈️ Master's Thesis
-Flight trajectory reconstruction under rain, spray and dust cloud constraints at Nador Airport using RNAV(GNSS) Approach Procedure.
-
-#### 📡 GNSS Satellite Position Computation
-Determining satellite positions using Keplerian-to-ECEF transformations on 24-hour multi-constellation RINEX data — satellite availability plots, SNR heatmaps, ionospheric delay, cycle slip detection, and multipath estimation.
-
-#### 🌍 Remote Sensing — Landsat 8 Atmospheric Correction
-Atmospheric correction of a Landsat 8 satellite image of Nador using ENVI 5.3.
-
-#### 🖥️ Web App for GNSS Master Program
-Built a web application for the GNSS Master's program covering courses, references, and training information.
-
-#### 📷 Median Filter Application in MATLAB
-Applied salt and pepper noise reduction on images using a nonlinear median filter in MATLAB.
-
----
-
-### 📜 Certifications
-
-- 🛰️ **GNSS Basic Principles** — Rione Certificate
-- ✈️ **Performance Based Navigation Awareness** — Eurocontrol Certificate
-- 🌐 **EF Standard English Test** — EF SET Certificate
-- 💻 **CompTIA A+ Training** *(In Progress)* — Dion Training
-
----
-
-### 🌍 Languages
-
-`Arabic` — Native &nbsp;|&nbsp; `English` — Professional &nbsp;|&nbsp; `French` — Professional &nbsp;|&nbsp; `Dutch` — Basic &nbsp;|&nbsp; `Spanish` — Basic
 
 ---
 

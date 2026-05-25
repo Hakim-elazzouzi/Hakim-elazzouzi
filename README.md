@@ -1,4 +1,4 @@
-# Hi there, I'm Hakim El Azzouzi 👋
+# Hi there, I'm Hakim El Azzouzi
 
 > *"I don't claim to know everything — but I know how to find it."* 
 
@@ -75,4 +75,4 @@ With a master's degree in **GNSS** based in 🇱🇺 **Luxembourg**, genuinely p
   <img src="https://komarev.com/ghpvc/?username=Hakim-elazzouzi&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
-<p align="center">Thanks for stopping by — feel free to reach out, I'm always open to learning and new opportunities. 🛰️✨</p>
+<p align="center">Thanks for stopping by, and feel free to reach out, I'm always open to learning and new opportunities.</p>

@@ -6,18 +6,18 @@
 
 ### 🧭 About Me
 
-I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, genuinely passionate about **GNSS**, **Satellite Systems** and everything that comes with it — navigation, positioning, signal processing, and orbit determination. I'm also on a journey into **Data Analysis**, motivated by the idea that understanding data deeply is what makes any engineer more powerful.
+I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, genuinely passionate about **GNSS**, **Satellite Systems** and everything that comes with it including navigation, positioning, signal processing, and orbit determination. I'm also on a journey into **Data Analysis**, motivated by the idea that understanding data deeply is what makes any engineer more powerful.
 
-- 🛰️ Master's in **Global Navigation Satellite Systems (GNSS)**
-- 📡 Background in **satellite navigation, positioning, signal processing & GNSS augmentation systems**
-- 🌍 Based in **Luxembourg** — open to opportunities in the space & satellite sector
-- 🎓 Open to **PhD opportunities** in GNSS, Geodesy, or related fields
-- 📊 Expanding into **Data Analysis** as a complement to my engineering background
-- 🌱 Motivated, detail-oriented, and always eager to grow
+-  Master's in **Global Navigation Satellite Systems (GNSS)**
+-  Background in **satellite navigation, positioning, signal processing & GNSS augmentation systems**
+-  Based in **Luxembourg** — open to opportunities in the space & satellite sector
+-  Open to **PhD opportunities** in GNSS, Geodesy, or related fields
+-  Expanding into **Data Analysis** as a complement to my engineering background
+-  Motivated, detail-oriented, and always eager to grow
 
 ---
 
-### 🛠️ Tech & Tools
+###  Tech & Tools
 
 **GNSS & Navigation**
 
@@ -45,7 +45,7 @@ I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, genuinely passionate a
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hakim-elazzouzi&show_icons=true&theme=tokyonight&hide_border=true" alt="Hakim's GitHub stats" />
@@ -55,7 +55,7 @@ I'm a **GNSS Engineer** based in 🇱🇺 **Luxembourg**, genuinely passionate a
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/elazzouzihakim/" target="_blank">

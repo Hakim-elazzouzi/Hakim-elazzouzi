@@ -1,6 +1,6 @@
 # Hi there, I'm Hakim El Azzouzi
 
-> *"I don't claim to know everything — but I know how to find it."* 
+> *"I don't claim to know everything, but I know how to find it."* 
 
 ---
 

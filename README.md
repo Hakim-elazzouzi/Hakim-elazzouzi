@@ -1,78 +1,55 @@
 # Hi there, I'm Hakim El Azzouzi
 
-> *"I don't claim to know everything, but I know how to find it."* 
+> *"I don't claim to know everything, but I know how to find it."*
 
 ---
 
-###  About Me
+### About Me
 
-With a master's degree in **GNSS** based in 🇱🇺 **Luxembourg**, genuinely passionate about **GNSS**, **Satellite Systems** and everything that comes with it including navigation, positioning, signal processing, and orbit determination. I'm also on a journey into **Data Analysis**, motivated by the idea that understanding data deeply is what makes any engineer more powerful.
+Junior Data Analyst with a Master's degree in GNSS and a strong technical and
+analytical background. Currently developing my career in Data Analytics, with a
+focus on Excel, SQL, Power Query, Tableau, Power BI, Alteryx Designer, data
+visualization, and business intelligence. Interested in transforming data into
+actionable insights and using analytics to improve business and operational
+performance.
 
--  Master's in **Global Navigation Satellite Systems (GNSS)**
--  Background in **satellite navigation, positioning, signal processing & GNSS augmentation systems**
--  Based in **Luxembourg** — open to opportunities in the space & satellite sector
--  Open to **PhD opportunities** in GNSS, Geodesy, or related fields
--  Expanding into **Data Analysis** as a complement to my engineering background
--  Motivated, detail-oriented, and always eager to grow
+- Google Data Analytics Professional Certificate
+- Tableau Creator – Intermediate
+- Data Visualization in Power BI
+- Case Study: Analyzing Customer Churn in Power BI
+- Data Analysis with Python
 
 ---
 
-###  Tech & Tools
-
-**GNSS & Navigation**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
+### Tech & Tools
 
 **Data Analysis**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://) [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://)
 
 **Programming & Tools**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://)
+
+**GNSS & Satellite Navigation background**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://) [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://) [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://)
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hakim-elazzouzi&show_icons=true&theme=tokyonight&hide_border=true" alt="Hakim's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakim-elazzouzi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![Hakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakim-elazzouzi&show_icons=true&theme=tokyonight&hide_border=true)](https://)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakim-elazzouzi&layout=compact&theme=tokyonight&hide_border=true)](https://)
 
 ---
 
-###  Connect With Me
+### Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/elazzouzihakim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Hakim-elazzouzi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:elazzouzihakim10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elazzouzihakim/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hakim-elazzouzi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elazzouzihakim10@gmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hakim-elazzouzi&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=Hakim-elazzouzi&color=blueviolet&style=flat-square)
 
-<p align="center">Thanks for stopping by, and feel free to reach out, I'm always open to learning and new opportunities.</p>
+Thanks for stopping by — feel free to reach out, I'm always open to learning and new opportunities.

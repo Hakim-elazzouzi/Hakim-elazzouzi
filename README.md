@@ -52,4 +52,4 @@ performance.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Hakim-elazzouzi&color=blueviolet&style=flat-square)
 
-Thanks for stopping by — feel free to reach out, I'm always open to learning and new opportunities.
+Thanks for stopping by, and feel free to reach out, I'm always open to learning and new opportunities.

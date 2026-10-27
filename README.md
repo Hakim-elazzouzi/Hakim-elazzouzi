@@ -13,12 +13,6 @@ visualization, and business intelligence. Interested in transforming data into
 actionable insights and using analytics to improve business and operational
 performance.
 
-- Google Data Analytics Professional Certificate
-- Tableau Creator – Intermediate
-- Data Visualization in Power BI
-- Case Study: Analyzing Customer Churn in Power BI
-- Data Analysis with Python
-
 ---
 
 ### Tech & Tools
